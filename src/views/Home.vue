@@ -5,7 +5,7 @@
         <div class="row">
           <div class="span4">
             <div>
-              <img class="img-left" src="../assets/home.jpg" height="300"/>
+              <img class="img-left" src="../assets/home.jpg"/>
             </div>
             <div>
               <div class="content-heading"><h3 class="home-content-title">Azienda Agricola &nbsp </h3></div>
@@ -15,9 +15,9 @@
         </div>
         <br/>
         <div class="row">
-          <div class="span4">
+          <div class="span4 revert">
             <div>
-              <img class="img-right" src="../assets/le_pianazze.png" height="300"/>
+              <img class="img-right" src="../assets/le_pianazze.png"/>
             </div>
             <div>
               <div class="content-heading"><h3 class="home-content-title">Gli ingredienti &nbsp </h3></div>
