@@ -7,5 +7,5 @@
 </template>
 
 <style lang="sass">
-//@import './Header'
+@import './Header'
 </style>

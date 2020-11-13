@@ -3,58 +3,16 @@
   justify-content: space-between
   background-color: rgba(233,215,0, 0.7)
   padding: 1% 4%
+  flex-direction: column
 
-.text
-  max-width: 30%
-  padding: 0.5%
-  font-family: 'Moul', cursive
-  font-size: 1.2em
+  .text
+    max-width: 90%
+    padding: 0.5%
+    font-family: 'Moul', cursive
+    font-size: 1.2em
 
-header 
-  background-image: linear-gradient(to right, lightgreen , yellow) // Standard syntax (must be last)
-  width: 100%
-  height: 40px
-
-header .container .mobile_nav .burger 
-  width: 19px
-  height: 19px
-  position: relative
-  overflow: hidden
-
-.container 
-  margin: auto
-  display: block
-  height: 100%
-  transition: 0.3s
-  max-width: 90%
-
-header .container .head_nav 
-  margin: 10px 2px
-  display: block
-
-a:hover
-  text-decoration: none
-  color: inherit
-
-.hamburger, .cross
-  display: none
-
-@media screen and (max-width: 768px) 
-  header
-    height: auto
-  
-  .hamburger, .cross
-    display: block
-    cursor: pointer
-    background-color: rgba(255,255,255,.15)
-    margin: 0px 0 0 95.1%
-    padding-top: 0.5%
-    border: 0
-    font-size: 1.4em
-    font-weight: bold
-    cursor: pointer
-    outline: none
-
-  header .container .head_nav 
-    display: flex
-    justify-content: center
+@media screen and ( min-width: 925px )
+  .beforeHeader
+    flex-direction: row
+    .text
+      max-width: 70%
