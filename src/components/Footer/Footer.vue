@@ -1,5 +1,5 @@
 <template>
-  <div class="ct-footer-post">
+  <div class="ct-footer ct-footer-post">
     <div class="container">
       <div class="inner-left">
         <p class="azienda">Azienda Agricola Giordano Emanuele | Via Chiesa, 466, Formignano(FC), 47522</p>
@@ -9,5 +9,5 @@
 </template>
 
 <style lang="sass">
-//@import './Footer'
+@import './Footer'
 </style>

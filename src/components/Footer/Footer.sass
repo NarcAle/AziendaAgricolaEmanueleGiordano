@@ -1,29 +1,16 @@
+.ct-footer
+  background-color: #111
+  //position: absolute
+  right: 0
+  bottom: 0
+  left: 0
+.ct-footer-post
+  background-color: rgba(#111,0.4)
 
-.ct-footer-post 
-  background: red
-
-.ct-footer-post .inner-left, .ct-footer-post .inner-right 
-  padding-top: 5px
-  display: flex
-  flex-direction: column
-
-.ct-footer-post p 
+  .inner-left, .ct-footer-post .inner-right 
+    padding-top: 5px
+    display: flex
+    flex-direction: column
+  p 
     color: #fff
-
-@media screen and (max-width:768px)
-  .ct-footer 
-    position: relative
-  
-    .ct-footer-post p 
-        display: inline-block
-
-@media (min-width:992px) 
-  .ct-footer-post .inner-left 
-      float: left
-  
-  .ct-footer-post .inner-right 
-      float: right
-    
-@media (max-width:991px) 
-  .ct-footer-post 
-      text-align: center
+    font-size: 18px
