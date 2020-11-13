@@ -1,0 +1,47 @@
+.home_part
+  .sede
+    margin-top: 16px
+    text-align: center
+
+  .map_and_description
+    display: flex
+    flex-direction: column
+    justify-content: center
+    margin: 5em 0
+    .text-c
+      padding: 0.5%
+      font-family: 'Moul', cursive
+      font-weight: 500
+      font-size: 1.2em
+    .interlinea
+      line-height: 2.5em
+    .containerMap
+      max-width: 300px
+      margin: 0 auto
+      .mapAzienda
+        width: 250px
+        margin: 0 auto
+  .container
+    li
+      list-style: none
+      cursor: pointer
+      text-align: left
+      .text-c
+        padding: 0.5%
+        font-family: 'Moul', cursive
+        font-weight: 500
+        color: black
+        font-size: 1.2em
+      .text-c:hover
+        text-decoration: none
+@media screen and (min-width: 992px)
+  .home_part
+    .map_and_description
+      flex-direction: row
+      justify-content: space-around
+      margin: 5em 0
+      .containerMap
+          max-width: 100%
+          margin: 0
+          .mapAzienda
+            width: 600px !important
