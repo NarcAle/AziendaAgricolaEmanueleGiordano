@@ -34,11 +34,6 @@ const routes = [
     path: '/contattaci',
     name: 'contattaci',
     component: Contattaci
-  },
-  {
-    path: '*',
-    name: 'Home',
-    component: Home
   }
 ]
 
