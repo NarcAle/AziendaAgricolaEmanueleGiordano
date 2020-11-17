@@ -18,7 +18,7 @@
     </div>
 
     <div>
-      <h2 class="sede">Hanno parlato di noi: </h2><br/>
+      <h2 class="sede">Hanno parlato di noi: ppp</h2><br/>
       <ul class="container">
         <li><a class="text-c" href="http://www.ecor.it/it/prodotti/le-terre-di-ecor/az--agr--emanuele-giordano"> Le Terre di Ecor</a></li><br/>
         <li><a class="text-c" href="https://www.negozicuorebio.it/e/le-terre-di-ecor/azienda-agricola-giordano-emanuele/"> Cuore Bio </a></li><br/><br/>
