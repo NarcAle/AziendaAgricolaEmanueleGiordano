@@ -4,9 +4,9 @@
       <div class="content-heading"><h3>I nostri prodotti &nbsp </h3></div>
       <hr style="background-color: black; height: 1px; border: 0;">
       <div class="space-image">
-        <img class="img-left" src="../../assets/susine.jpg" height="270"/>
-        <img class="img-left" src="../../assets/prodotti1.jpg" height="270"/>
-        <img class="img-left" src="../../assets/raccolto.jpg" height="270"/>
+        <img class="img-left" src="/assets/susine.jpg" height="270"/>
+        <img class="img-left" src="/assets/prodotti1.jpg" height="270"/>
+        <img class="img-left" src="/assets/raccolto.jpg" height="270"/>
       </div>
       <div class="span">
         <p class="span">L'azienda offre una vastissima gamma di prodotti, divisi tra piante officinali e non officinali. <br/> 
@@ -31,9 +31,9 @@
       <div class="content-heading"><h3>Processo produttivo &nbsp </h3></div>
       <hr style="background-color: black; height: 1px; border: 0;">
       <div class="space-image">
-        <img class="img-left" src="../../assets/lavorazione-terra1.jpg"/>
-        <img class="img-left" src="../../assets/lavorazione-terra2.jpg"/>
-        <img class="img-left" src="../../assets/lavorazione-terra3.jpg"/>
+        <img class="img-left" src="/assets/lavorazione-terra1.jpg"/>
+        <img class="img-left" src="/assets/lavorazione-terra2.jpg"/>
+        <img class="img-left" src="/assets/lavorazione-terra3.jpg"/>
       </div>
       <div class="span4">
         <p>

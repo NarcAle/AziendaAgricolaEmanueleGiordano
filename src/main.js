@@ -7,7 +7,6 @@ import './custom.sass';
 import BootstrapVue from 'bootstrap-vue'
 
 Vue.use(BootstrapVue)
-//Vue.use(Gallery)
 
 Vue.config.productionTip = false
 
