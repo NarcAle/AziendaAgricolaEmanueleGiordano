@@ -5,7 +5,7 @@
         <hr style="background-color: black; height: 1px; border: 0;">
         <div class="space-image">
           <img class="img" src="../../assets/emanuele-giordano.jpg"/>
-          <img class="img" src="../../assets//home1.jpg"/>
+          <img class="img" src="../../assets/home1.jpg"/>
         </div>
         <p class="history">Incorniciata dalle dolci colline che circondano il Cesenate, l'azienda agricola di Emanuele Giordano di Formigliano fa parte della realtà del biologico
           da più di venticinque anni. <br/>
