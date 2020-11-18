@@ -21,8 +21,8 @@
       <h2 class="sede">Hanno parlato di noi: prova2
         </h2><br/>
       <ul class="container">
-        <li><router-link class="text-c" to="http://www.ecor.it/it/prodotti/le-terre-di-ecor/az--agr--emanuele-giordano"> Le Terre di Ecor</router-link></li><br/>
-        <li><router-link class="text-c" to="https://www.negozicuorebio.it/e/le-terre-di-ecor/azienda-agricola-giordano-emanuele"> Cuore Bio </router-link></li><br/><br/>
+        <li><b-link class="text-c" to="http://www.ecor.it/it/prodotti/le-terre-di-ecor/az--agr--emanuele-giordano"> Le Terre di Ecor</b-link></li><br/>
+        <li><b-link class="text-c" to="https://www.negozicuorebio.it/e/le-terre-di-ecor/azienda-agricola-giordano-emanuele"> Cuore Bio </b-link></li><br/><br/>
       </ul>
     </div>
     <br/><br/><br/>
