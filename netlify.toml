@@ -1,4 +1,11 @@
 [[redirects]]
-  from = "/*"
-  to = "/" 
-  force = true
+from = "/link1"
+to = "http://www.ecor.it/it/prodotti/le-terre-di-ecor/az--agr--emanuele-giordano"
+status = 200
+force = false
+
+[[redirects]]
+from = "/linkCuorebio"
+to = "https://www.negozicuorebio.it/e/le-terre-di-ecor/azienda-agricola-giordano-emanuele"
+status = 200
+force = false

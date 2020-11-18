@@ -34,6 +34,14 @@ const routes = [
     path: '/contattaci',
     name: 'contattaci',
     component: Contattaci
+  },
+  {
+    path: '/linkEcor',
+    name: 'linkEcor'
+  },
+  {
+    path: '/linkCuorebio',
+    name: 'linkCuorebio'
   }
 ]
 
