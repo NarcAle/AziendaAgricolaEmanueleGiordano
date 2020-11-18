@@ -18,7 +18,7 @@
     </div>
 
     <div>
-      <h2 class="sede">Hanno parlato di noi: prova2
+      <h2 class="sede">Hanno parlato di noi:
         </h2><br/>
       <ul class="container">
         <li><a class="text-c" href="https://www.naturasi.it/le-terre-di-ecor/giordano-emanuele"> Le Terre di Ecor</a></li><br/>
