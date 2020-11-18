@@ -18,7 +18,7 @@
     </div>
 
     <div>
-      <h2 class="sede">Hanno parlato di noi: ppp</h2><br/>
+      <h2 class="sede">Hanno parlato di noi: prova</h2><br/>
       <ul class="container">
         <li><a class="text-c" to="/linkEcor"> Le Terre di Ecor</a></li><br/>
         <li><a class="text-c" to="linkCuorebio"> Cuore Bio </a></li><br/><br/>
